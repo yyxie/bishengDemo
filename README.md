@@ -1,10 +1,9 @@
 ## 抽离antd中必须用的内容，做一个自己的react组件API管理
+参考github上别人的项目，具体可见https://github.com/wuguanghai45/bisheng-antd-doc-template.git
 
 ## 使用方式
 npm install
 npm run bisheng
-
-
 
 ## 如何使用bisheng PS: 这里面我将英文部分给删除了
 * 编译的配置文件是在 site/bisheng.config.js
